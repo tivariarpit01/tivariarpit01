@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1> Hi 👋 i'm Arpit Tiwari </h1>
 🤝 I’m looking to collaborate on<br>Exciting AI and Machine Learning projects, especially in NLP and Data Science.<br><br>🛠 I’m looking for help with<br>Advanced deep learning architectures, model optimization, and scalability in AI projects.<br><br>🌱 I’m currently learning<br>Advanced Machine Learning, Neural Networks, and Generative AI models like GPT and Stable Diffusion.<br><br>💬 Ask me about<br>Data Science, Machine Learning, Deep Learning, and Python for AI.<br><br>⚡ Fun fact<br>I love solving real-world problems with AI and enjoy experimenting with new tech innovations.<br><br>
 
 
